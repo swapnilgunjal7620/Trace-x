@@ -1,0 +1,6 @@
+{
+  "name": "TRACE-X — Crypto Fraud Investigation & Fund Provenance Platform",
+  "description": "Enterprise forensic intelligence platform for cryptocurrency fraud investigation, Virtual Fund Trace (VFT) fund provenance tracking, and privacy-preserving cross-agency collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
